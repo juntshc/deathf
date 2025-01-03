@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: Hardcore Death Notes
+## Notes: Tracks deaths from HardcoreDeaths channel and logs to SavedVariable
+## Author: Junts
+## SavedVariables: HardcoreDeathNotesDB, HardcoreDeathFConfig
+HardcoreDeathNotes.lua
+DeathNoteLogger.lua
